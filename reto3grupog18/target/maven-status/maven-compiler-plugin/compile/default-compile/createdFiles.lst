@@ -1,0 +1,16 @@
+com\cuatroa\retotres\repository\OrderRepository.class
+com\cuatroa\retotres\model\User.class
+com\cuatroa\retotres\service\UserService.class
+com\cuatroa\retotres\DemoApplication.class
+com\cuatroa\retotres\repository\UserRepository.class
+com\cuatroa\retotres\controller\OrderController.class
+com\cuatroa\retotres\service\OrderService.class
+com\cuatroa\retotres\repository\crud\UserCrudRepository.class
+com\cuatroa\retotres\controller\UserController.class
+com\cuatroa\retotres\service\ChocolateService.class
+com\cuatroa\retotres\repository\ChocolateRepository.class
+com\cuatroa\retotres\repository\crud\ChocolateCrudRepository.class
+com\cuatroa\retotres\controller\ChocolateController.class
+com\cuatroa\retotres\repository\crud\OrderCrudRepository.class
+com\cuatroa\retotres\model\Order.class
+com\cuatroa\retotres\model\Chocolate.class
